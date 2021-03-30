@@ -1,0 +1,6 @@
+{
+    "ArkansasBC": "/Event Conditions/Unsteady/Boundary Conditions/Flow Hydrographs/SA: Perimeter 1 BCLine: Arkansas",
+    "Miss_MemphisBC": "/Event Conditions/Unsteady/Boundary Conditions/Flow Hydrographs/SA: Perimeter 1 BCLine: Miss_Memphis",
+    "WhiteBC": "/Event Conditions/Unsteady/Boundary Conditions/Flow Hydrographs/SA: Perimeter 1 BCLine: White",
+    "YazooBC": "/Event Conditions/Unsteady/Boundary Conditions/Flow Hydrographs/SA: Perimeter 1 BCLine: YAZOO"
+}
